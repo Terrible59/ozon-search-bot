@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fingerprint-injector": "^2.1.46",
+    "puppeteer": "^21.7.0"
+  }
+}
